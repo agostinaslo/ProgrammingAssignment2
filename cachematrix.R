@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The idea is to create a matrix an then cache its inverse with a function created by us.
 
 ## Function which creates a matrix that can cache its inverse.
 
